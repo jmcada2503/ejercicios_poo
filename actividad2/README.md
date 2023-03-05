@@ -21,4 +21,4 @@ Cada ejercicio tiene la siguiente estructura de directorios:
 ```
 
 ## Pdf con las soluciones de los ejercicios:
-[]()
+[https://github.com/jmcada2503/ejercicios_poo/blob/master/actividad2/Ejercicios%20Actividad2%20POO.pdf](https://github.com/jmcada2503/ejercicios_poo/blob/master/actividad2/Ejercicios%20Actividad2%20POO.pdf)

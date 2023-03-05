@@ -22,7 +22,7 @@ public class Triangulo implements FiguraBase {
     }
 
     public String tipo() {
-        if (this.base == this.altura) {
+        if ((this.base == this.altura) || (this.base == 0) || (this.altura == 0)) {
             return "Isóceles";
         }
         else {

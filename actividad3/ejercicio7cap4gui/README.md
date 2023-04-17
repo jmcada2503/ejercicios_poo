@@ -6,3 +6,6 @@ si A es mayor, menor o igual a B
 
 ### Interfaz gráfica
 ![Imagen de la interfaz gráfica](./gui.png)
+
+### Diagrama de clases (UML)
+![Imagen del diagrama de clases en UML](./DiagramaClases.png)

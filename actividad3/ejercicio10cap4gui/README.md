@@ -15,3 +15,6 @@ La universidad cobra un valor constante para cada estudiante de $50.000. Si el p
 
 ### Interfaz gráfica
 ![Imagen de la interfaz gráfica](./gui.png)
+
+### Diagrama de clases (UML)
+![Imagen del diagrama de clases en UML](./DiagramaClases.png)

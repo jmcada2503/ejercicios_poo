@@ -5,3 +5,6 @@ Elaborar un algoritmo que entre el nombre de un empleado, su salario básico por
 
 ### Interfaz gráfica
 ![Imagen de la interfaz gráfica](./gui.png)
+
+### Diagrama de clases (UML)
+![Imagen del diagrama de clases en UML](./DiagramaClases.png)

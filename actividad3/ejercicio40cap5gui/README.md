@@ -5,3 +5,6 @@ Encontrar la raíz cuadrada, el cuadrado y el cubo de un grupo de números enter
 
 ### Interfaz gráfica
 ![Imagen de la interfaz gráfica](./gui.png)
+
+### Diagrama de clases (UML)
+![Imagen del diagrama de clases en UML](./DiagramaClases.png)

@@ -5,3 +5,6 @@ Dados los valores A, B y C que son los parámetros de una ecuación de segundo g
 
 ### Interfaz gráfica
 ![Imagen de la interfaz gráfica](./gui.png)
+
+### Diagrama de clases (UML)
+![Imagen del diagrama de clases en UML](./DiagramaClases.png)

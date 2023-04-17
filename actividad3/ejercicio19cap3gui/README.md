@@ -6,3 +6,6 @@ perímetro, el valor de la altura y el área del triángulo.
 
 ### Interfaz gráfica
 ![Imagen de la interfaz gráfica](./gui.png)
+
+### Diagrama de clases (UML)
+![Imagen del diagrama de clases en UML](./DiagramaClases.png)

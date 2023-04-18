@@ -21,6 +21,14 @@ crear las cuatro figuras y probar los métodos respectivos.
 ### Interfaces gráficas
 * #### Ventana principal
 > ![Imagen interfaz gráfica de la ventana principal](./gui/MainWindow.png)
+* #### Ventana del Círculo
+> ![Imagen interfaz gráfica de la ventana del círculo](./gui/CircleWindow.png)
+* #### Ventana del Cuadrado
+> ![Imagen interfaz gráfica de la ventana del cuadrado](./gui/SquareWindow.png)
+* #### Ventana del Rectángulo
+> ![Imagen interfaz gráfica de la ventana del rectángulo](./gui/RectangleWindow.png)
+* #### Ventana del Triángulo
+> ![Imagen interfaz gráfica de la ventana del triángulo](./gui/TriangleWindow.png)
 
 ### Diagrama de clases (UML)
 ![Imagen del diagrama de clases en UML](./DiagramaClases.jpg)

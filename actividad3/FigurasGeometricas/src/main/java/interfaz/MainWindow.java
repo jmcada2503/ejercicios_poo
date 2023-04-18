@@ -17,15 +17,15 @@ public class MainWindow extends javax.swing.JFrame {
      * Creates new form MainWindow
      */
     
-    Circulo circle;
-    Cuadrado square;
-    Rectangulo rectangle;
-    Triangulo triangle;
+    protected Circulo circle;
+    protected Cuadrado square;
+    protected Rectangulo rectangle;
+    protected Triangulo triangle;
     
-    CircleWindow circleWindow;
-    SquareWindow squareWindow;
-    RectangleWindow rectangleWindow;
-    TriangleWindow triangleWindow;
+    protected CircleWindow circleWindow;
+    protected SquareWindow squareWindow;
+    protected RectangleWindow rectangleWindow;
+    protected TriangleWindow triangleWindow;
 
     public void updateCircle() {
         this.txt_radio_circulo.setText(String.valueOf(this.circle.radio));

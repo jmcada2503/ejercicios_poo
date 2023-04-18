@@ -18,8 +18,9 @@ Además, para el triángulo rectángulo se requiere:
 Se debe desarrollar una clase de prueba con un método main para
 crear las cuatro figuras y probar los métodos respectivos.
 
-### Interfaz gráfica
-![Imagen de la interfaz gráfica](./gui.png)
+### Interfaces gráficas
+* #### Ventana principal
+> ![Imagen interfaz gráfica de la ventana principal](./gui/MainWindow.png)
 
 ### Diagrama de clases (UML)
 ![Imagen del diagrama de clases en UML](./DiagramaClases.jpg)

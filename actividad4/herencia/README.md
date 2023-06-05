@@ -47,3 +47,6 @@ de la cuenta, la comisión mensual, el número de transacciones
 realizadas (suma de cantidad de consignaciones y retiros) y el
 valor de sobregiro.
 Realizar un método main que implemente un objeto Cuenta de ahorros y llame a los métodos correspondientes.
+
+## Diagrama de clases (UML)
+![Diagrama de clases UML](./DiagramaClases.png)

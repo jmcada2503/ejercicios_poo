@@ -17,12 +17,19 @@ determinar si son del Gobierno. Cada inmueble tiene un valor de compra.
 Este depende del área de cada inmueble según la tabla 4.2.
 
 Inmueble -> Valor por metro cuadrado
+
 Casa rural -> $ 1500000
+
 Casa en conjunto cerrado -> $ 2500000
+
 Casa independiente -> $ 3000000
+
 Apartaestudio -> $ 1500000
+
 Apartamento familiar -> $ 2000000
+
 Local comercial -> $ 3000000
+
 Oficina -> $ 3500000
 
 ## Diagrama de clases (UML)

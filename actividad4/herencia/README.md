@@ -50,3 +50,7 @@ Realizar un método main que implemente un objeto Cuenta de ahorros y llame a lo
 
 ## Diagrama de clases (UML)
 ![Diagrama de clases UML](./DiagramaClases.png)
+
+
+## Video de funcionamiento del programa
+![Video de funcionamiento](./Funcionamiento.webm)

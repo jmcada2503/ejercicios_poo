@@ -10,3 +10,6 @@ En cada una de las carpetas se encuentran los siguientes elementos:
 * Archivo **DiagramaClases.mdj** con el diagrama de clases de la solución planteada
 * Arvhivo **DiagramaClases.png** con una imagen del diagrama de clases de la solución planteada
 * Arvhivo **Funcionamiento.webm** con un video corto sobre el funcionamiento del programa
+
+## Documento con la solucón de los ejercicios
+[Archivo pdf con la solucón de los ejercicios](./Actividad 4 POO.pdf)

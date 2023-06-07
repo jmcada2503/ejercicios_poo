@@ -1,4 +1,4 @@
-# Ejercicio 4.3 (Clases abstractas)
+# Ejercicio 4.7 (Clases abstractas)
 
 ## Enunciado del ejercicio:
 Se tiene una jerarquía taxonómica con los siguientes animales:

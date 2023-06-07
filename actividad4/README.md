@@ -12,4 +12,4 @@ En cada una de las carpetas se encuentran los siguientes elementos:
 * Arvhivo **Funcionamiento.webm** con un video corto sobre el funcionamiento del programa
 
 ## Documento con la solucón de los ejercicios
-[Archivo pdf con la solucón de los ejercicios](./Actividad 4 POO.pdf)
+![Archivo pdf con la solucón de los ejercicios](./Actividad 4 POO.pdf)
